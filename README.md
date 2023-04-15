@@ -1,10 +1,11 @@
-![1](https://user-images.githubusercontent.com/85064231/232202996-344623d6-4e1b-4885-9c0d-5cd06744ccd6.png)
-#Create new Contact
-![2](https://user-images.githubusercontent.com/85064231/232203001-70c1fa0f-2fb3-40fe-8d4f-e41c687e43bd.png)
-#View Contact Information
-![3](https://user-images.githubusercontent.com/85064231/232203004-9420f811-b306-4a88-abcb-d24669fc5ded.png)
-#Edit Contact Information
-![4](https://user-images.githubusercontent.com/85064231/232203006-3553ca1a-e202-4f87-8a48-001e13d919d6.png)
+![Screenshot](1.png)
+Create new contact
+![Screenshot](2.png)
+Edit contact information
+![Screenshot](3.png)
+View contact information
+![Screenshot](4.png)
+
 
 # Getting Started with Create React App
 
