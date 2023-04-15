@@ -1,9 +1,9 @@
 ![Screenshot](1.png)
 Create new contact
 ![Screenshot](2.png)
-Edit contact information
-![Screenshot](3.png)
 View contact information
+![Screenshot](3.png)
+Edit contact information
 ![Screenshot](4.png)
 
 
