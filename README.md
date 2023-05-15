@@ -1,11 +1,10 @@
-![Screenshot](1.png)
+![1](https://github.com/Abhay31/Contact-Manager/assets/85064231/8f32d690-af2a-469d-b0fc-f951a14d509c)
 Create new contact
-![Screenshot](2.png)
+![2](https://github.com/Abhay31/Contact-Manager/assets/85064231/b00aedaf-2b13-4b7c-99b8-61ee858d17ff)
 View contact information
-![Screenshot](3.png)
+![3](https://github.com/Abhay31/Contact-Manager/assets/85064231/6682efca-cf89-4b76-a09d-3f60c9efa36e)
 Edit contact information
-![Screenshot](4.png)
-
+![4](https://github.com/Abhay31/Contact-Manager/assets/85064231/6e838a8a-0c14-472b-b1b6-b17c9132cce1)
 
 # Getting Started with Create React App
 
