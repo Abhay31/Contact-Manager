@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter as Router, Navigate, Route, Routes } from "react-router-dom";
+import { BrowserRouter as Router, Navigate, Route, Routes } from "react-router-dom";
 import NavBar from "./components/NavBar/NavBar";
 import ContactList from "./components/contacts/ContactList/ContactList";
 import AddContact from "./components/contacts/AddContact/AddContact";
