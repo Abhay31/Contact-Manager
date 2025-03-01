@@ -2,7 +2,7 @@ import axios from "axios";
 
 
 export class ContactService {
-    static serviceURL = `https://contact-manager-backend-w9as.onrender.com`;
+    static serviceURL = `https://contact-manager-v8pm.onrender.com/`;
 
     static getGroups(){
         let dataURL = `${this.serviceURL}/groups`;
